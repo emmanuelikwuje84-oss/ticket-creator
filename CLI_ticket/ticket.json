@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "title": "some key of my keyboard is not working",
+        "category": "hardware",
+        "affected_user": 23,
+        "urgency": "medium",
+        "ai_answer": "Possible cause: Dust, dirt, or debris is blocking the key.  \nSolution:  \n1. Turn off/unplug the keyboard and gently shake it or use compressed air to clear the blockage.  \n2. Restart your computer to reset keyboard settings and drivers.  \n3. If the key still doesn\u2019t work, test with an external keyboard or update the keyboard driver from the manufacturer\u2019s website."
+    }
+]
